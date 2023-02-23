@@ -13,4 +13,6 @@ Afterwards, several controllers of various objectives were developed and impleme
 4. A velocity-based LQR controller to balance the pendulum provided that the pendulum is initially upright
 
 
-A video has been created summarizing the results of the controllers' performance in simulation and on the project as a whole, whose link is as follows: https://youtu.be/S0qoqIZO_Pk
+A PDF copy of the final lab report is provided summarizing the project objectives, methodology, derivation of the system's state-space representations, derivation of the controllers, and a discussion/analysis of the controllers' performances.
+
+Additionally, a video has been created showcasing the results of the controllers' performance in simulation , whose link is as follows: https://youtu.be/S0qoqIZO_Pk
